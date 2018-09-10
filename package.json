@@ -45,5 +45,6 @@
         "type": "git",
         "url": "https://github.com/msiq/ToggleFormatOnSave.git"
     },
-    "homepage": "https://github.com/msiq/ToggleFormatOnSave/blob/master/README.md"
+    "homepage": "https://github.com/msiq/ToggleFormatOnSave/blob/master/README.md",
+    "icon": "images/icon.png"
 }
