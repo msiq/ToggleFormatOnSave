@@ -16,9 +16,9 @@
     "main": "./out/extension",
     "contributes": {
         "commands": [{
-                "command": "extension.toggleFormatOnSave",
-                "title": "format on save",  
-                "category": "Toggle"
+            "command": "extension.toggleFormatOnSave",
+            "title": "format on save",
+            "category": "Toggle"
         }],
         "keybindings": [{
             "command": "extension.toggleFormatOnSave",
