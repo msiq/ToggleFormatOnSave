@@ -2,7 +2,7 @@
     "name": "toggleformatonsave",
     "displayName": "ToggleFormatOnSave",
     "description": "Quick Toggle for FormatOnSave setting",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "misq",
     "engines": {
         "vscode": "^1.27.0"
